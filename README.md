@@ -29,7 +29,7 @@ This component comes with a ScrollView, the default renderer, a FlatList or a Se
 ## Installation
 
 ```bash
-yarn add react-native-modalize react-native-gesture-handler
+yarn add react-native-patch-modalize react-native-gesture-handler
 ```
 
 <details>
