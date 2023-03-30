@@ -1,9 +1,10 @@
 ## ovr Fork Version
+
 Original https://github.com/jeremybarbet/react-native-modalize
-> ### Support for modalTopOffset default for iPhone 14 series devices
+
+### Support for modalTopOffset default for iPhone 14 series devices
 
 # Modalize
-
 
 A highly customizable modal/bottom sheet that loves scrolling content.
 
