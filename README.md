@@ -61,7 +61,7 @@ Here is a quick example, using the default ScrollView renderer.
 ```tsx
 import React, { useRef } from 'react';
 import { View, Text, TouchableOpacity } from 'react-native';
-import { Modalize } from 'react-native-modalize';
+import { Modalize } from 'react-native-patch-modalize';
 
 export const App = () => {
   const modalizeRef = useRef<Modalize>(null);
