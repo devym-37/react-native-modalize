@@ -1,6 +1,6 @@
 {
   "name": "react-native-patch-modalize",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A highly customizable modal/bottom sheet that loves scrolling content.",
   "main": "lib/index.js",
   "types": "./lib/index.d.ts",
